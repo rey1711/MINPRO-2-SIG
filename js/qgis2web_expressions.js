@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Aggregates
 
 // Color
@@ -1512,4 +1511,4 @@ function fnc__specialcol_(values, context) {
 function fnc_project_color(values, context) {
     return false;
 };
->>>>>>> aee4d851a84b0c16ab956f3afec988824b94d974
+
