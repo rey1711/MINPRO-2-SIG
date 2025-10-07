@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 L.PhotonBase = L.Class.extend({
 
     forEach: function (els, callback) {
@@ -1004,5 +1003,4 @@ var obj3 = {
     set marker(value) {
         this.value = value;
     }
->>>>>>> aee4d851a84b0c16ab956f3afec988824b94d974
     }
