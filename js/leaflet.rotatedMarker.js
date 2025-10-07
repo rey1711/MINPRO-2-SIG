@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 (function() {
     // save these original methods before they are overwritten
     var proto_initIcon = L.Marker.prototype._initIcon;
@@ -102,4 +101,3 @@
         }
     });
 })();
->>>>>>> aee4d851a84b0c16ab956f3afec988824b94d974
