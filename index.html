@@ -300,9 +300,10 @@
   }).fitBounds([[-6.97930727554,107.51554350],[-6.81701272921,107.74493899]]);
 
   // Base map
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap'
-  }).addTo(map);
+ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+}).addTo(map);
+
   // Layer titik bank sampah
   var bankLayer = L.geoJSON(json_BankSampahIndukKotaBandung_3, {
     onEachFeature: function (feature, layer) {
