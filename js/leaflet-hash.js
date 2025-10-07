@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 (function(window) {
 	var HAS_HASHCHANGE = (function() {
 		var doc_mode = window.documentMode;
@@ -324,4 +323,3 @@
 		this._hash.removeFrom();
 	};
 })(window);
->>>>>>> aee4d851a84b0c16ab956f3afec988824b94d974
